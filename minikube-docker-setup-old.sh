@@ -1,0 +1,1 @@
+../ckad/minikube-docker-setup.sh
