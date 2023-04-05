@@ -1,1 +1,1 @@
-hello
+This Git repository contains supporting files for my "Ansible: From Basics to Guru" videocourse, as well as the live course "Intermediate Ansible in 3 weeks" that I'm teaching at learning.oreilly.com.
